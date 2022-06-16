@@ -3,5 +3,6 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: *
-  script: index.html
+- url: /
+  static_files: index.html
+  upload: BioStaticWebsite
