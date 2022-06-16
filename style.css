@@ -6,13 +6,13 @@
     box-sizing: border-box;
 }
 
-.about{
+.Introduction{
     width: 100%;
     padding: 60px;
     background-color: black;
 }
 
-.about img{
+.Introduction img{
     height: auto;
     width: 430px;
 }
@@ -21,7 +21,7 @@
     border-radius: 5px;
 }
 
-.about-text{
+.Introduction-text{
     width: 550px;
     color: aliceblue;
 }
@@ -35,7 +35,7 @@
     justify-content: space-around;
 }
 
-.about-text h5{
+.Introduction-text h5{
     color: gainsboro;
     font-size: 20px;
     opacity: 70%;
@@ -43,21 +43,21 @@
     padding-left: 10px;
 }
 
-.about-text h2{
+.Introduction-text h2{
     color: aliceblue;
     font-size: 55px;
     font-weight: bold;
     padding-left: 10px;
 }
 
-.about-text h3{
+.Introduction-text h3{
     color: aliceblue;
     font-size: 45px;
     margin-bottom: 20px;
     padding-left: 10px;
 }
 
-.about-text p{
+.Introduction-text p{
     color: aliceblue;
     line-height: 28px;
     letter-spacing: 1px;
@@ -80,5 +80,5 @@ button{
 
 button :hover{
     cursor: pointer;
-    background-color: lighten(crimson, 50%);
+    background-color: rgb(255, 0, 51);
 }
