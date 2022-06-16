@@ -6,13 +6,13 @@
     box-sizing: border-box;
 }
 
-.Introduction{
+.about{
     width: 100%;
     padding: 60px;
     background-color: black;
 }
 
-.Introduction img{
+.about img{
     height: auto;
     width: 430px;
 }
@@ -21,7 +21,7 @@
     border-radius: 5px;
 }
 
-.Introduction-text{
+.about-text{
     width: 550px;
     color: aliceblue;
 }
@@ -35,7 +35,7 @@
     justify-content: space-around;
 }
 
-.Introduction-text h5{
+.about-text h5{
     color: gainsboro;
     font-size: 20px;
     opacity: 70%;
@@ -43,21 +43,21 @@
     padding-left: 10px;
 }
 
-.Introduction-text h2{
+.about-text h2{
     color: aliceblue;
     font-size: 55px;
     font-weight: bold;
     padding-left: 10px;
 }
 
-.Introduction-text h3{
+.about-text h3{
     color: aliceblue;
     font-size: 45px;
     margin-bottom: 20px;
     padding-left: 10px;
 }
 
-.Introduction-text p{
+.about-text p{
     color: aliceblue;
     line-height: 28px;
     letter-spacing: 1px;
